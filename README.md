@@ -1,5 +1,7 @@
 ### Hi there. I'm Lee JiaWei.👋
 
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 <!--
 **gsdukbh/gsdukbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
