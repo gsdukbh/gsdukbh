@@ -1,7 +1,11 @@
 ### Hi there. I'm Lee JiaWei.👋
 
+- 🌱 我目前在学习JAVA技术，希望能够找到一个非常棒的offer.
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gsdukbh)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gsdukbh/gsdukbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
