@@ -1,4 +1,4 @@
-### Hi there. I'm Lee JiaWei.👋
+### Hi there. I'm JiaWei Lee .👋
 
 - 🌱 我目前在学习JAVA技术，希望能够找到一个非常棒的offer.
 
