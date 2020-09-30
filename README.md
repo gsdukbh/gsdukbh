@@ -1,7 +1,7 @@
 ### Hi there. I'm JiaWei Lee .👋
 
 - 🌱 我目前在学习JAVA技术，希望能够找到一个非常棒的offer.
-- 🍡 
+- 🍡 更多了解，请访问我的博客：<https://werls.top> <https://gsdukbh.github.io>
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
