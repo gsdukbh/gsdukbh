@@ -6,7 +6,6 @@
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gsdukbh)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdukbh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
