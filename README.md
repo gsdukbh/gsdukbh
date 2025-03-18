@@ -1,4 +1,4 @@
-### Hi there. I'm JiaWei  .👋
+### Hi there. I'm Li JiaWei  .👋
 
 🌱 我目前在学习Java和go技术，希望能够找到一个非常棒的offer. 
 - 🍡 更多了解，请访问我的博客：<https://blog.werls.top> or <https://gsdukbh.github.io>
