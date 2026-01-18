@@ -3,10 +3,11 @@
 🌱 我目前在学习Java和go技术，希望能够找到一个非常棒的offer. 
 - 🍡 更多了解，请访问我的博客：<https://blog.werls.top> or <https://gsdukbh.github.io>
 - 代码存档 https://git.werls.top/root
+- 简历： https://werls.top/about/
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdukbh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdukbh)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gsdukbh/gsdukbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
